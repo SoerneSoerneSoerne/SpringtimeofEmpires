@@ -1,0 +1,22 @@
+{
+  "name": "Springtime of Empires ALPHA",
+  "id": "",
+  "version": "",
+  "supported_game_version": "",
+  "short_description": "",
+  "tags": [],
+  "picture": "thumbnail",
+  "relationships": [],
+  "game_custom_data": {
+    "multiplayer_synchronized": true,
+    "replace_paths": [
+      "common/history/countries",
+      "common/history/population",
+      "common/history/characters",
+      "common/history/buildings",
+	  "common/journal_entries",
+	  "events/american_civil_war",
+      "common/history/diplomacy"
+    ]
+  }
+}
